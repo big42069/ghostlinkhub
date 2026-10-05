@@ -21,7 +21,7 @@ GhostLink is a modular, portable personal-portal framework built entirely with H
 
 ## 🎮 Gaming Hub 
 
-700+ free games and HTML5 ports powered by the [gn-math](https://github.com/gn-math) community game library. (I do plan on adding my own games and riping all of gn-maths🥹) 
+50+ free games and HTML5 ports powered by a custom game library the [Audio-Books](https://github.com/cmcbroski621/audio_books) community game library. 
 
 - **Favorites** — heart any game to save it; toggle a filter to show only your picks 
 - **Download** — save any game as a standalone `.html` file to run offline 
